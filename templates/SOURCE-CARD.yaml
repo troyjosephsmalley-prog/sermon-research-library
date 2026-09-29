@@ -1,0 +1,34 @@
+source_id: ""
+
+bibliography:
+  author: ""
+  title: ""
+  editor: null
+  series: null
+  publisher: null
+  year: null
+  edition: null
+  isbn_doi_url: null
+
+source_class: TECHNICAL_COMMENTARY
+
+library:
+  provider: GOOGLE_DRIVE
+  path_or_locator: ""
+  file_name: null
+  edition_note: null
+  checksum: null
+
+competence: []
+
+coverage:
+  biblical_books: []
+  passages: []
+  topics: []
+
+notes:
+  independence_group: null
+  dependencies: []
+  general_note: null
+
+claims: []
