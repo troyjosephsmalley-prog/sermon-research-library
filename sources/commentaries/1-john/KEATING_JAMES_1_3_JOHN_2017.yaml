@@ -60,3 +60,15 @@ claims:
     contested: false
     independence_group: KEATING_2017
     alternatives: []
+- claim_id: KEAT-1J-003
+    passage: "1 John 2:29"
+    issue: referents_in_2_29
+    claim_type: syntax_discourse
+    summary: "Keating notes that the masculine pronoun can grammatically refer to either Son or Father, but judges 'begotten by him' highly likely to refer to the Father because Johannine divine begetting language elsewhere refers to God."
+    location: "pp. 178-179"
+    quotation: null
+    contribution: QUALIFIES
+    confidence: HIGH
+    contested: true
+    independence_group: KEATING_2017
+    alternatives: ["Christ as first referent", "God/Father as referent throughout"]
