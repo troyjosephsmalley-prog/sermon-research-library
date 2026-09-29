@@ -60,7 +60,7 @@ claims:
     contested: false
     independence_group: KEATING_2017
     alternatives: []
-- claim_id: KEAT-1J-003
+  - claim_id: KEAT-1J-003
     passage: "1 John 2:29"
     issue: referents_in_2_29
     claim_type: syntax_discourse
@@ -72,7 +72,7 @@ claims:
     contested: true
     independence_group: KEATING_2017
     alternatives: ["Christ as first referent", "God/Father as referent throughout"]
-- claim_id: KEAT-1J-004
+  - claim_id: KEAT-1J-004
     passage: "1 John 3:1-2"
     issue: fathers_love_and_future_identity
     claim_type: theological_synthesis
