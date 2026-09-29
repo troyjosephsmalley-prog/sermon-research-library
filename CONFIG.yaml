@@ -1,0 +1,34 @@
+version: 1
+library_name: Sermon Research Library
+
+repositories:
+  governing_sds:
+    repository: troyjosephsmalley-prog/sermon-dev-sys
+    released_branch: main
+  structured_research:
+    repository: troyjosephsmalley-prog/sermon-research-library
+    branch: main
+
+source_archive:
+  provider: GOOGLE_DRIVE
+  root_title: SDS Research Library
+  root_folder_id: 1jHfygzTpZVqwaWu61xxDNDU7Ayi-ZNqU
+  root_url: https://drive.google.com/drive/folders/1jHfygzTpZVqwaWu61xxDNDU7Ayi-ZNqU
+  access_mode: CONNECTED_LIBRARY
+
+retrieval:
+  default_sds_research_mode: STANDARD_VERIFIED
+  strategy: QUESTION_LED_JUST_IN_TIME
+  structured_first: true
+  verify_original_location_for_material_claims: true
+  preserve_live_alternatives: true
+  audit_independence_groups: true
+
+copyright:
+  raw_source_files_in_git: false
+  store_structured_notes_only: true
+
+status:
+  drive_connection_verified: true
+  github_write_verified: true
+  bootstrap_state: ACTIVE
