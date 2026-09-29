@@ -1,0 +1,77 @@
+issue_id: ISSUE_1J_PERICOPE_AFTER_2_27
+title: "Sermon-sized unit following 1 John 2:18-27"
+passage: "1 John 2:28-3:10"
+question: "For the sermon immediately following 1 John 2:18-27, where should the sermon-sized unit end while preserving the actual literary relations of the text?"
+status: PROJECT_ADJUDICATED
+
+positions:
+  - position_id: A
+    summary: "Use 1 John 2:28-3:3 as the sermon unit: 2:28-29 functions as a hinge from abiding/appearing into righteousness and new birth; 3:1-2 develops present child-of-God identity and future likeness to Christ; 3:3 states the present ethical consequence of that hope before the argument turns explicitly to sin/lawlessness in 3:4."
+    supporting_claim_ids:
+      - YARB-1J-001
+      - YARB-1J-002
+      - PAIN-1J-001
+      - PAIN-1J-002
+      - KEAT-1J-001
+      - KEAT-1J-002
+      - HEIL-1J-002
+    disputing_claim_ids:
+      - HEIL-1J-001
+      - ODON-1J-001
+    principal_difficulties:
+      - "No inspected commentary uses exactly 2:28-3:3 as its primary exegetical section."
+      - "Verse 3:3 also introduces the purity/sin contrast developed in 3:4-6."
+    independence_groups:
+      - YARBROUGH_2008
+      - PAINTER_2002
+      - KEATING_2017
+      - HEIL_2015
+
+  - position_id: B
+    summary: "Use 1 John 2:28-3:6 as a larger rhetorical unit, preserving Heil's proposed chiastic relation between 2:28-3:2 and 3:4-6 with 3:3 as the pivot."
+    supporting_claim_ids:
+      - HEIL-1J-001
+    disputing_claim_ids:
+      - PAIN-1J-001
+      - PAIN-1J-002
+      - KEAT-1J-001
+    principal_difficulties:
+      - "The proposed chiastic structure is distinctive and should not be treated as established merely because lexical parallels exist."
+      - "For the present sermon series this range would move from assurance/identity/hope into the dense sin-lawlessness problem that can sustain its own sermon."
+    independence_groups:
+      - HEIL_2015
+
+  - position_id: C
+    summary: "Use 1 John 2:28-3:10 as the full 'children of God' contrast, including purity, habitual sin, and children of God versus children of the devil."
+    supporting_claim_ids:
+      - KEAT-1J-001
+      - ODON-1J-001
+    disputing_claim_ids:
+      - PAIN-1J-001
+      - PAIN-1J-002
+    principal_difficulties:
+      - "This is a valid larger literary/expository block but is considerably broader than needed for one sermon in the present sequential series."
+      - "It risks making the identity/hope movement of 2:28-3:3 subordinate to the later sin contrast."
+    independence_groups:
+      - KEATING_2017
+      - ODONNELL_2017
+
+  - position_id: D
+    summary: "Treat 2:28-29 and 3:1-3 as separate adjacent exegetical units."
+    supporting_claim_ids:
+      - PAIN-1J-001
+      - PAIN-1J-002
+    disputing_claim_ids:
+      - HEIL-1J-001
+      - KEAT-1J-001
+    principal_difficulties:
+      - "It creates a very short 2:28-29 sermon if applied directly to sermon segmentation."
+      - "It can understate the forward movement from new birth in 2:29 to children of God in 3:1-2."
+    independence_groups:
+      - PAINTER_2002
+
+unresolved_questions:
+  - "How much of 3:4-6 should be previewed in the sermon conclusion without allowing the next unit to govern the present sermon?"
+  - "Does the final manuscript's duration target make 2:28-3:3 too small or appropriately focused?"
+
+notes: "This dossier distinguishes exegetical/literary segmentation from sermon segmentation. Position A is a project-level homiletical segmentation built from multiple source observations; it is not asserted as the uniquely correct literary outline of 1 John."
