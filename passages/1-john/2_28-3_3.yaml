@@ -1,6 +1,6 @@
 passage: "1 John 2:28-3:3"
 status: ACTIVE_PROJECT
-project_id: PILOT001_1J_NEXT_SERMON
+current_project: PILOT-001_1JOHN_NEXT_SERMON
 
 relevant_sources:
   - YARBROUGH_1_3_JOHN_2008
@@ -11,24 +11,31 @@ relevant_sources:
   - WITHERINGTON_SOCIO_RHETORICAL_2008
 
 relevant_issues:
-  - ISSUE_1J_2_28_PERICOPE_BOUNDARY
+  - ISSUE_1J_PERICOPE_AFTER_2_27
+  - ISSUE_1J_2_29_REFERENTS
 
 project_adjudications:
-  - adjudications/PILOT001_1J_2_28-3_3.yaml
+  - adjudications/PILOT-001_1JOHN_BOUNDARY.yaml
+  - adjudications/PILOT-001_1JOHN_2_29_REFERENTS.yaml
 
 material_research_questions:
-  - "What is the precise discourse force of the repeated 'remain in him' across 2:27-28?"
-  - "Who is the antecedent of 'he/him' in 2:28-29, and how much Johannine referential fluidity should be allowed?"
-  - "How does 2:29's 'everyone who does righteousness has been born of him' relate causally to 3:1's children-of-God identity?"
-  - "What is the function of the imperative 'See' in 3:1?"
-  - "Does 'because of this' in 3:1 point forward, backward, or both in the discourse?"
-  - "What is the subject/referent of the revealing/appearing language in 3:2?"
-  - "What kind of likeness to Christ is intended in 3:2, and what is not warranted?"
-  - "What is the semantic range and likely ethical/ritual background of 'purifies himself' in 3:3?"
-  - "What causal relation does 3:3 assert between eschatological hope and present purification?"
-  - "How should assurance and ethical testing be held together without making either one swallow the other?"
+  resolved_for_project:
+    - "Sermon-sized range following 2:18-27"
+    - "How to handle the 2:29 referent ambiguity without overclaiming"
+  open_for_exegesis:
+    - "What is the precise discourse force of the repeated 'remain in him' across 2:27-28?"
+    - "How does 2:29's righteousness/new-birth logic relate causally to 3:1's children-of-God identity?"
+    - "What is the rhetorical function of 'See' in 3:1?"
+    - "Does the causal expression in 3:1 point forward, backward, or both in the discourse?"
+    - "What exactly is promised by 'we will be like him' in 3:2, and what exceeds the text?"
+    - "What is the semantic and ethical/ritual background of 'purifies himself' in 3:3?"
+    - "How should assurance and ethical testing be held together without allowing either to swallow the other?"
 
 coverage_gaps:
-  - "Original-language verification has not yet been completed for all material terms."
-  - "Witherington's local treatment has not yet been inspected sufficiently for claim-level use."
-  - "No dedicated lexicon/grammar source has yet been added to the Drive library for this passage."
+  - "A dedicated lexicon/grammar source has not yet been added to the Drive library for this passage."
+  - "Witherington's local treatment is indexed but not yet used claim-by-claim."
+  - "Original-language verification remains to be completed for terms that become architecturally load-bearing."
+
+notes:
+  - "The selected range is a project-level sermon segmentation within a larger disputed literary complex."
+  - "Do not treat the research index itself as evidence; follow claim IDs back to source cards and original Drive locations."
