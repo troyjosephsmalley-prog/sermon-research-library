@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/sds/ISSUE-DOSSIER.schema.json",
+  "title": "SDS Research Library Issue Dossier",
+  "type": "object",
+  "required": [
+    "issue_id",
+    "question",
+    "status",
+    "positions"
+  ],
+  "properties": {
+    "issue_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "passage": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "question": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "OPEN",
+        "PARTIALLY_RESOLVED",
+        "PROJECT_ADJUDICATED",
+        "RESEARCH_HOLD"
+      ]
+    },
+    "positions": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": [
+          "position_id",
+          "summary",
+          "supporting_claim_ids",
+          "principal_difficulties"
+        ],
+        "properties": {
+          "position_id": {
+            "type": "string"
+          },
+          "summary": {
+            "type": "string"
+          },
+          "supporting_claim_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true
+          },
+          "disputing_claim_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true
+          },
+          "principal_difficulties": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "independence_groups": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "unresolved_questions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": false
+}
