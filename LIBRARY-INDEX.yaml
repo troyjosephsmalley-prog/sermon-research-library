@@ -1,3 +1,69 @@
 index_version: "1"
 generated_or_updated: "2026-09-29"
-sources: []
+
+sources:
+  - source_id: YARBROUGH_1_3_JOHN_2008
+    author: Robert W. Yarbrough
+    title: 1–3 John
+    year: 2008
+    source_class: TECHNICAL_COMMENTARY
+    card_path: sources/commentaries/1-john/YARBROUGH_1_3_JOHN_2008.yaml
+    biblical_books: [1 John, 2 John, 3 John]
+    passages: ["1 John 1:1-5:21"]
+    topics: [abiding, assurance, righteousness, children of God, eschatology]
+    competence: [Greek syntax and discourse, literary structure, lexical analysis, theological interpretation]
+
+  - source_id: PAINTER_1_2_3_JOHN_2002
+    author: John Painter
+    title: 1, 2, and 3 John
+    year: 2002
+    source_class: TECHNICAL_COMMENTARY
+    card_path: sources/commentaries/1-john/PAINTER_1_2_3_JOHN_2002.yaml
+    biblical_books: [1 John, 2 John, 3 John]
+    passages: ["1 John 1:1-5:21"]
+    topics: [abiding, sonship, sanctification, sin, assurance]
+    competence: [Greek syntax, literary structure, rhetorical analysis, Johannine theology]
+
+  - source_id: HEIL_1_3_JOHN_2015
+    author: John Paul Heil
+    title: 1–3 John
+    year: 2015
+    source_class: TECHNICAL_COMMENTARY
+    card_path: sources/commentaries/1-john/HEIL_1_3_JOHN_2015.yaml
+    biblical_books: [1 John, 2 John, 3 John]
+    passages: ["1 John 1:1-5:21"]
+    topics: [chiastic structure, worship, righteousness, abiding, purity]
+    competence: [rhetorical structure, Greek lexical recurrence, oral-performance analysis, theological interpretation]
+
+  - source_id: KEATING_JAMES_1_3_JOHN_2017
+    author: Daniel Keating
+    title: First, Second, and Third John
+    year: 2017
+    source_class: TECHNICAL_COMMENTARY
+    card_path: sources/commentaries/1-john/KEATING_JAMES_1_3_JOHN_2017.yaml
+    biblical_books: [1 John, 2 John, 3 John]
+    passages: ["1 John 1:1-5:21"]
+    topics: [righteousness, children of God, purity, assurance, abiding]
+    competence: [literary structure, Greek lexical interpretation, theological interpretation, pastoral synthesis]
+
+  - source_id: ODONNELL_1_3_JOHN_2017
+    author: Douglas Sean O'Donnell
+    title: 1–3 John
+    year: 2017
+    source_class: HOMILETICAL_SYNTHESIS
+    card_path: sources/commentaries/1-john/ODONNELL_1_3_JOHN_2017.yaml
+    biblical_books: [1 John, 2 John, 3 John]
+    passages: ["1 John 1:1-5:21"]
+    topics: [assurance, righteousness, appearing of Christ, children of God]
+    competence: [homiletical synthesis, Reformed theological interpretation, pastoral application]
+
+  - source_id: WITHERINGTON_SOCIO_RHETORICAL_2008
+    author: Ben Witherington III
+    title: A Socio-Rhetorical Commentary on Titus, 1-2 Timothy and 1-3 John
+    year: 2008
+    source_class: TECHNICAL_COMMENTARY
+    card_path: sources/commentaries/1-john/WITHERINGTON_SOCIO_RHETORICAL_2008.yaml
+    biblical_books: [1 John, 2 John, 3 John]
+    passages: ["1 John 1:1-5:21"]
+    topics: [rhetoric, social setting, ethics, schism]
+    competence: [socio-rhetorical analysis, historical context, literary and rhetorical interpretation]
