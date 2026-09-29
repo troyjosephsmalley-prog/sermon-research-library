@@ -1,0 +1,37 @@
+source_id: WITHERINGTON_SOCIO_RHETORICAL_2008
+
+bibliography:
+  author: Ben Witherington III
+  title: "A Socio-Rhetorical Commentary on Titus, 1-2 Timothy and 1-3 John"
+  editor: null
+  series: "Letters and Homilies for Hellenized Christians, Volume 2"
+  publisher: InterVarsity Press
+  year: 2008
+  edition: null
+  isbn_doi_url: "9780830829330"
+
+source_class: TECHNICAL_COMMENTARY
+
+library:
+  provider: GOOGLE_DRIVE
+  path_or_locator: "https://drive.google.com/file/d/1Wn4L5dY3Y0yY-Q-yK4O8yTVKonboXjBo/view"
+  file_name: "A Socio-Rhetorical Commentary on Titus, 1-2 Timothy and 1-3 -- Ben Witherington Iii [Witherington, Ben Iii] -- Letters and Homilies for Hellenized -- 54ec9708148e5f8fd0e6e714f7530209 -- Anna’s Archive.epub"
+  edition_note: "EPUB metadata date 2008."
+  checksum: null
+
+competence:
+  - socio-rhetorical analysis
+  - historical context
+  - literary and rhetorical interpretation
+
+coverage:
+  biblical_books: [1 John, 2 John, 3 John]
+  passages: ["1 John 1:1-5:21"]
+  topics: [rhetoric, social setting, ethics, schism]
+
+notes:
+  independence_group: WITHERINGTON_2008
+  dependencies: []
+  general_note: "Indexed during PILOT-001. The local 2:28-3:3 section was not sufficiently recovered in the first connector pass, so no claim from this source governs the current adjudication."
+
+claims: []
