@@ -32,6 +32,30 @@ coverage:
 notes:
   independence_group: WITHERINGTON_2008
   dependencies: []
-  general_note: "Indexed during PILOT-001. The local 2:28-3:3 section was not sufficiently recovered in the first connector pass, so no claim from this source governs the current adjudication."
+  general_note: "The local section was recovered directly from the EPUB during PILOT-001 after the Drive text extractor returned no readable text."
 
-claims: []
+claims:
+  - claim_id: WITH-1J-001
+    passage: "1 John 2:18-29"
+    issue: pericope_boundary_and_abiding
+    claim_type: rhetorical_structure
+    summary: "Witherington treats 2:18-3:24 as a larger probatio section and specifically discusses 2:18-29 as a coherent stretch shaped by antichrist/anointing language; 2:28 places the argument in the horizon of Christ's return."
+    location: "1 John commentary, section headed '1 John 2:18-3:24—Probatio, Part 2'; discussion of 2:18-29"
+    quotation: null
+    contribution: QUALIFIES
+    confidence: HIGH
+    contested: true
+    independence_group: WITHERINGTON_2008
+    alternatives: ["2:28 as the start of a new sermon-sized unit while retaining backward continuity"]
+  - claim_id: WITH-1J-002
+    passage: "1 John 2:28-3:3"
+    issue: future_likeness_and_purification
+    claim_type: eschatological_ethics
+    summary: "Witherington reads 2:28 and 3:2 together in relation to Christ's appearing and presents 3:3 as the purification of those whose hope is fixed on him."
+    location: "1 John commentary, translation and discussion following 2:18-29"
+    quotation: null
+    contribution: SUPPORTS
+    confidence: HIGH
+    contested: false
+    independence_group: WITHERINGTON_2008
+    alternatives: []
