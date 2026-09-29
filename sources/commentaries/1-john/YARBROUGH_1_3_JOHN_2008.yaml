@@ -73,3 +73,39 @@ claims:
     contested: true
     independence_group: YARBROUGH_2008
     alternatives: ["God/Father as referent throughout 2:29"]
+- claim_id: YARB-1J-004
+    passage: "1 John 3:1"
+    issue: fathers_love_and_child_identity
+    claim_type: rhetorical_theological
+    summary: "Yarbrough treats the opening 'See' as exclamatory and 3:1 as a summons to marvel at the Father's love whose effect is the real status of believers as children of God."
+    location: "pp. 173-177"
+    quotation: null
+    contribution: SUPPORTS
+    confidence: HIGH
+    contested: false
+    independence_group: YARBROUGH_2008
+    alternatives: []
+  - claim_id: YARB-1J-005
+    passage: "1 John 3:2"
+    issue: future_likeness
+    claim_type: eschatological_theological
+    summary: "Yarbrough reads 3:2 as promised future transformation at Christ's appearing while stressing that the text does not fully specify the future state; the 'not yet' should restrain speculative detail."
+    location: "pp. 177-179"
+    quotation: null
+    contribution: SUPPORTS
+    confidence: HIGH
+    contested: false
+    independence_group: YARBROUGH_2008
+    alternatives: []
+  - claim_id: YARB-1J-006
+    passage: "1 John 3:3"
+    issue: hope_and_purification
+    claim_type: causal_ethics
+    summary: "Yarbrough describes 3:3 as an indicative with prescriptive force: eschatological hope catalyses present holiness, and the purification language is ethical in this context even though the verb can have ceremonial uses."
+    location: "pp. 179-180"
+    quotation: null
+    contribution: SUPPORTS
+    confidence: HIGH
+    contested: false
+    independence_group: YARBROUGH_2008
+    alternatives: []
