@@ -1,0 +1,21 @@
+project_id: PILOT-001_1JOHN_NEXT_SERMON
+passage: "1 John 2:29"
+issue_id: ISSUE_1J_2_29_REFERENTS
+governing_judgment: "Do not make the sermon depend on a forced resolution of the first pronoun in 2:29. Treat 'born of him' as birth from God/Father, while allowing that 'he is righteous' may refer to Christ in continuity with 2:28 or to God/Father as Painter argues."
+confidence: HIGH
+supporting_claim_ids:
+  - YARB-1J-003
+  - PAIN-1J-003
+  - KEAT-1J-003
+live_alternatives:
+  - "Christ as first referent; God/Father as begetter"
+  - "God/Father as referent throughout"
+reasons_for_project_choice:
+  - "The sources show a genuine competent disagreement rather than an easily dismissible reading."
+  - "The sermon can faithfully communicate the verse's theological force without pretending the first referent is certain."
+  - "The birth formula is much less disputed and naturally leads into 'children of God' in 3:1."
+downstream_constraints:
+  - "If the manuscript names the first referent, mark the interpretation as probable rather than certain."
+  - "Do not use the pronoun question as a load-bearing sermon turn."
+  - "Preserve the transition from righteousness to divine begetting and children-of-God identity."
+promotion_status: PROJECT_ONLY
