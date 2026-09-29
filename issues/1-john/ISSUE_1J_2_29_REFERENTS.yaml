@@ -1,0 +1,40 @@
+issue_id: ISSUE_1J_2_29_REFERENTS
+title: "Referent(s) of the pronouns in 1 John 2:29"
+passage: "1 John 2:29"
+question: "Does 'he is righteous' refer to Christ or God the Father, and does 'born of him' preserve the same referent or shift to God/Father?"
+status: PROJECT_ADJUDICATED
+
+positions:
+  - position_id: A
+    summary: "The first referent is Christ; the birth language refers to divine parentage, God/Father."
+    supporting_claim_ids:
+      - YARB-1J-003
+      - KEAT-1J-003
+    disputing_claim_ids:
+      - PAIN-1J-003
+    principal_difficulties:
+      - "It requires a referent shift within a compact sentence."
+      - "The Greek pronoun itself does not mark the shift."
+    independence_groups:
+      - YARBROUGH_2008
+      - KEATING_2017
+
+  - position_id: B
+    summary: "God/Father is the referent through the verse."
+    supporting_claim_ids:
+      - PAIN-1J-003
+      - KEAT-1J-003
+    disputing_claim_ids:
+      - YARB-1J-003
+    principal_difficulties:
+      - "The immediate discourse in 2:28 centres on Christ's appearing/coming, making a Christ referent in the first clause contextually natural."
+      - "1 John has already called Jesus Christ 'the righteous one' in 2:1."
+    independence_groups:
+      - PAINTER_2002
+      - KEATING_2017
+
+unresolved_questions:
+  - "Whether a sermon-level explanation needs to identify the first referent at all."
+  - "Whether the rhetorical effect is better captured by stressing family resemblance to divine righteousness without over-resolving the pronoun."
+
+notes: "For PILOT-001 the governing choice is not to force resolution beyond what the sermon requires. The birth language should be explained as birth from God/Father; the identity of the first 'he' may be presented cautiously or left implicit."
