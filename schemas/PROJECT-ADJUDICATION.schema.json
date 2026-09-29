@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/sds/PROJECT-ADJUDICATION.schema.json",
+  "title": "SDS Project Research Adjudication",
+  "type": "object",
+  "required": [
+    "project_id",
+    "issue_id",
+    "governing_judgment",
+    "confidence",
+    "supporting_claim_ids",
+    "downstream_constraints"
+  ],
+  "properties": {
+    "project_id": {
+      "type": "string"
+    },
+    "passage": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "issue_id": {
+      "type": "string"
+    },
+    "governing_judgment": {
+      "type": "string"
+    },
+    "confidence": {
+      "enum": [
+        "LOW",
+        "MODERATE",
+        "HIGH"
+      ]
+    },
+    "supporting_claim_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "live_alternatives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "reasons_for_project_choice": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "downstream_constraints": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "promotion_status": {
+      "enum": [
+        "PROJECT_ONLY",
+        "CANDIDATE_FOR_GENERAL_LIBRARY_NOTE"
+      ],
+      "default": "PROJECT_ONLY"
+    }
+  },
+  "additionalProperties": false
+}
