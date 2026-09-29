@@ -15,17 +15,20 @@ positions:
       - KEAT-1J-001
       - KEAT-1J-002
       - HEIL-1J-002
+      - WITH-1J-001
     disputing_claim_ids:
       - HEIL-1J-001
       - ODON-1J-001
     principal_difficulties:
       - "No inspected commentary uses exactly 2:28-3:3 as its primary exegetical section."
+      - "Witherington's 2:18-29 rhetorical grouping reinforces that 2:28-29 overlaps backward with the preceding material rather than marking a completely clean restart."
       - "Verse 3:3 also introduces the purity/sin contrast developed in 3:4-6."
     independence_groups:
       - YARBROUGH_2008
       - PAINTER_2002
       - KEATING_2017
       - HEIL_2015
+      - WITHERINGTON_2008
 
   - position_id: B
     summary: "Use 1 John 2:28-3:6 as a larger rhetorical unit, preserving Heil's proposed chiastic relation between 2:28-3:2 and 3:4-6 with 3:3 as the pivot."
