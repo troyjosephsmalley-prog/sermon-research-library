@@ -1,0 +1,62 @@
+source_id: HEIL_1_3_JOHN_2015
+
+bibliography:
+  author: John Paul Heil
+  title: 1–3 John
+  editor: null
+  series: null
+  publisher: James Clarke & Co / The Lutterworth Press
+  year: 2015
+  edition: null
+  isbn_doi_url: "9780227904978"
+
+source_class: TECHNICAL_COMMENTARY
+
+library:
+  provider: GOOGLE_DRIVE
+  path_or_locator: "https://drive.google.com/file/d/1Fa881YqwGPag7XZL3feA-reD0LqR3yJA/view"
+  file_name: "1-3 John _ Worship by Loving God and One Another to Live -- John Paul Heil -- 1, Cambridge, United Kingdom, 2015 -- The Lutterworth Press -- isbn13 9780227175408 -- e50084f19cdca665ee67f6c2139773bb -- Anna’s Archive.pdf"
+  edition_note: null
+  checksum: null
+
+competence:
+  - rhetorical structure
+  - Greek lexical recurrence
+  - oral-performance analysis
+  - theological interpretation
+
+coverage:
+  biblical_books: [1 John, 2 John, 3 John]
+  passages: ["1 John 1:1-5:21"]
+  topics: [chiastic structure, worship, righteousness, abiding, purity]
+
+notes:
+  independence_group: HEIL_2015
+  dependencies: []
+  general_note: "Heil's macrochiastic proposals are distinctive and should be tested rather than assumed."
+
+claims:
+  - claim_id: HEIL-1J-001
+    passage: "1 John 2:28-3:6"
+    issue: pericope_boundary_and_abiding
+    claim_type: rhetorical_structure
+    summary: "Heil treats 2:28-3:6 as a chiastic unit: 2:28-3:2 forms the first major element, 3:3 is the central purity pivot, and 3:4-6 answers the opening element with the sin/lawlessness contrast."
+    location: "pp. 105-111"
+    quotation: null
+    contribution: DISPUTES
+    confidence: HIGH
+    contested: true
+    independence_group: HEIL_2015
+    alternatives: ["2:28-3:3 sermon segmentation", "2:28-3:10"]
+  - claim_id: HEIL-1J-002
+    passage: "1 John 2:28"
+    issue: continuity_with_previous_sermon
+    claim_type: discourse_relation
+    summary: "Heil identifies the repeated 'remain in him' language at 2:28 as a transition that directly links the new unit with the closing exhortation of 2:27."
+    location: "pp. 106-108"
+    quotation: null
+    contribution: SUPPORTS
+    confidence: HIGH
+    contested: false
+    independence_group: HEIL_2015
+    alternatives: []
