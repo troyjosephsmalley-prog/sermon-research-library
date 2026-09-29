@@ -73,3 +73,39 @@ claims:
     contested: true
     independence_group: PAINTER_2002
     alternatives: ["Christ as first referent with God/Father as begetter in the second clause"]
+- claim_id: PAIN-1J-004
+    passage: "1 John 3:1"
+    issue: discourse_force_3_1
+    claim_type: syntax_discourse
+    summary: "Painter identifies 'See' as an imperative calling attention to something remarkable and argues that 'because of this' points forward to the following causal clause when followed by epexegetical hoti."
+    location: "pp. 217-219"
+    quotation: null
+    contribution: SUPPORTS
+    confidence: HIGH
+    contested: false
+    independence_group: PAINTER_2002
+    alternatives: []
+  - claim_id: PAIN-1J-005
+    passage: "1 John 3:2"
+    issue: future_likeness
+    claim_type: eschatological_theological
+    summary: "Painter emphasizes the already/not-yet tension: believers are God's children now, while what they will be is not yet revealed; the future appearing resumes the parousia language of 2:28."
+    location: "pp. 218-220"
+    quotation: null
+    contribution: SUPPORTS
+    confidence: HIGH
+    contested: false
+    independence_group: PAINTER_2002
+    alternatives: []
+  - claim_id: PAIN-1J-006
+    passage: "1 John 3:3"
+    issue: hope_and_purification
+    claim_type: lexical_theological
+    summary: "Painter notes ritual associations of the purity vocabulary and possible baptismal background but finds no positive indication that baptism itself is the point; the present tense supports an ongoing process of purification."
+    location: "pp. 218-221"
+    quotation: null
+    contribution: QUALIFIES
+    confidence: HIGH
+    contested: false
+    independence_group: PAINTER_2002
+    alternatives: []
