@@ -61,3 +61,15 @@ claims:
     contested: false
     independence_group: PAINTER_2002
     alternatives: []
+- claim_id: PAIN-1J-003
+    passage: "1 John 2:29"
+    issue: referents_in_2_29
+    claim_type: syntax_discourse
+    summary: "Painter argues that God is the referent in 2:29, especially because the 'begotten of him' formula elsewhere in 1 John refers to being begotten of God and the argument immediately continues with the Father and the children of God."
+    location: "pp. 213-214"
+    quotation: null
+    contribution: DISPUTES
+    confidence: HIGH
+    contested: true
+    independence_group: PAINTER_2002
+    alternatives: ["Christ as first referent with God/Father as begetter in the second clause"]
