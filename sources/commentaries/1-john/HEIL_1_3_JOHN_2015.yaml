@@ -60,7 +60,7 @@ claims:
     contested: false
     independence_group: HEIL_2015
     alternatives: []
-- claim_id: HEIL-1J-003
+  - claim_id: HEIL-1J-003
     passage: "1 John 3:3"
     issue: hope_and_purification
     claim_type: rhetorical_theological
