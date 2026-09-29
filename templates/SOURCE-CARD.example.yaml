@@ -1,0 +1,56 @@
+source_id: COMM_JOBES_1PETER_2005
+
+bibliography:
+  author: Karen H. Jobes
+  title: 1 Peter
+  editor: null
+  series: Baker Exegetical Commentary on the New Testament
+  publisher: Baker Academic
+  year: 2005
+  edition: null
+  isbn_doi_url: null
+
+source_class: TECHNICAL_COMMENTARY
+
+library:
+  provider: GOOGLE_DRIVE
+  path_or_locator: SDS Research Library/01 Commentaries/New Testament/1 Peter/
+  file_name: Jobes - 1 Peter - 2005.pdf
+  edition_note: null
+  checksum: null
+
+competence:
+  - Greek syntax
+  - lexical analysis
+  - literary structure
+  - historical context
+  - theological interpretation
+
+coverage:
+  biblical_books:
+    - 1 Peter
+  passages:
+    - 1 Peter 1:1-5:14
+  topics:
+    - perseverance
+    - holiness
+    - suffering
+
+notes:
+  independence_group: JOBES_2005
+  dependencies: []
+  general_note: Example only; locations and claims below must be verified against the actual source before use.
+
+claims:
+  - claim_id: JOBES-1P-001
+    passage: 1 Peter 1:13
+    issue: inferential force of the opening conjunction
+    claim_type: discourse_relation
+    summary: Example placeholder for a verified source contribution.
+    location: VERIFY BEFORE USE
+    quotation: null
+    contribution: SUPPORTS
+    confidence: LOW
+    contested: false
+    independence_group: JOBES_2005
+    alternatives: []
