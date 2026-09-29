@@ -1,0 +1,77 @@
+version: 1
+root:
+  title: SDS Research Library
+  id: 1jHfygzTpZVqwaWu61xxDNDU7Ayi-ZNqU
+  path: "SDS Research Library"
+
+folders:
+  inbox:
+    id: 15Dy6t6mcKi5XGZmL1UyfdsBhlmyFFJ7r
+    path: "SDS Research Library/00 Inbox"
+  commentaries:
+    id: 1fJm8NLY7dMKhCFRM8E2GvDneH7hUixc1
+    path: "SDS Research Library/01 Commentaries"
+    old_testament:
+      id: 1mpAxsMDN7dLddmobszVLH0NfxE9-cCCu
+      path: "SDS Research Library/01 Commentaries/Old Testament"
+      books:
+        Genesis:
+          id: 1chMt69Zo2LA6E5GVBHAyxFMckyOu3F6z
+        "2 Kings":
+          id: 1Q0n5_GGk8Txh54bhSUJrBKLh4zF45rbv
+    new_testament:
+      id: 1LzNNLN6TEqYeHY9CvSIsjMZgR7DPeoqT
+      path: "SDS Research Library/01 Commentaries/New Testament"
+      books:
+        Matthew:
+          id: 1FbTW327DfiRUD10-sAukOyLEkFMl5M0G
+        Mark:
+          id: 1N4dHyDPsJgkn1zzGirmDscKWh_EAhcC9
+        John:
+          id: 1KuUGmpdYpmrY5SQ97eua7D88ZoPnyE8r
+        Romans:
+          id: 1d06lvLKNEfpxSeat-Lf3QC-yVHr4PAKI
+        "1 Corinthians":
+          id: 1qfGsynqJjqVlnsNnrG-HSQB1fYj8L89c
+        Hebrews:
+          id: 1REvcGcQMSgc7w1OTmRRkXnzqaP_631-S
+        "1 Peter":
+          id: 1yFDn9nmeyuAz5_jFkyJ7CyNYOVWIFCVo
+        "1 John":
+          id: 1xCrMcKCTNJ0iiuFuplP6uWoT8OAxzbWz
+  lexicons_grammars:
+    id: 1F_druw71VvFYwvtFeaImBCYJ-h5AGrRa
+    path: "SDS Research Library/02 Lexicons and Grammars"
+  monographs:
+    id: 1WUz_gaLfjiuf3a3TkS7bFCoG_bszXY_R
+    path: "SDS Research Library/03 Monographs"
+  journal_articles:
+    id: 1jziL9-muOEgysrcCAtlvNPS1FqCxzowO
+    path: "SDS Research Library/04 Journal Articles"
+  historical_cultural:
+    id: 1q0MxOSw3C-kFfcYwCuP17XFhq6M7RaNR
+    path: "SDS Research Library/05 Historical and Cultural"
+  biblical_theology:
+    id: 1sIMKZbrtQVgfAevvsJKe1R86APFbQlWZ
+    path: "SDS Research Library/06 Biblical Theology"
+  systematic_historical_theology:
+    id: 1Bg_4sSX0vNVHfb8MyHSYMLAaS7JC6Dz5
+    path: "SDS Research Library/07 Systematic and Historical Theology"
+  confessions_primary_sources:
+    id: 1iMGnCiYVFD6R_gijWCblITvTskioWF7u
+    path: "SDS Research Library/08 Confessions and Primary Sources"
+  homiletics_communication:
+    id: 1LxwXuJJ1WocAx9DpqQ1P4xCxfWHsOMTh
+    path: "SDS Research Library/09 Homiletics and Communication"
+  sermon_delivery_research:
+    id: 1ODpEdCrMobAYu2kMNuqHJ-RF1pFlKA-9
+    path: "SDS Research Library/10 Sermon and Delivery Research"
+    prosody_voice:
+      id: 1QpL-vDBJRuFX5m2SJzt1R-c2dG6YlT1O
+      path: "SDS Research Library/10 Sermon and Delivery Research/Prosody and Voice"
+    listener_reception:
+      id: 1Clbgito31LbfetuGsHAzGJRoi7pmbNRD
+      path: "SDS Research Library/10 Sermon and Delivery Research/Listener Reception"
+    public_speaking_nonverbal:
+      id: 18Cb3W4LYHS6tELGcXgIg53IoUbehU3v6
+      path: "SDS Research Library/10 Sermon and Delivery Research/Public Speaking and Nonverbal Delivery"
