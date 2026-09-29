@@ -1,0 +1,22 @@
+issue_id: ""
+title: null
+passage: null
+question: ""
+status: OPEN
+
+positions:
+  - position_id: A
+    summary: ""
+    supporting_claim_ids: []
+    disputing_claim_ids: []
+    principal_difficulties: []
+    independence_groups: []
+  - position_id: B
+    summary: ""
+    supporting_claim_ids: []
+    disputing_claim_ids: []
+    principal_difficulties: []
+    independence_groups: []
+
+unresolved_questions: []
+notes: null
