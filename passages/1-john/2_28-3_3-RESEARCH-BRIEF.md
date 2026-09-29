@@ -14,7 +14,7 @@ The repeated command to remain/abide directly continues 2:27 and therefore shoul
 
 The new incentive is eschatological: Christ's appearing/coming puts present abiding in the horizon of future confidence rather than shame.
 
-**Research support:** YARB-1J-001; KEAT-1J-002; HEIL-1J-002; PAIN-1J-001.
+**Research support:** YARB-1J-001; KEAT-1J-002; HEIL-1J-002; PAIN-1J-001; WITH-1J-001 (qualifying backward overlap).
 
 ### 2:29 — righteousness reveals family origin
 
@@ -62,7 +62,7 @@ Yarbrough describes it as an indicative with prescriptive force: the eschatologi
 
 The verb for purification can carry ceremonial/ritual associations. Painter notes that possible background but finds no positive indication that baptism is the point. In this context the sources converge on ongoing ethical purification patterned on Christ's purity.
 
-**Research support:** YARB-1J-006; PAIN-1J-006; KEAT-1J-005; HEIL-1J-003.
+**Research support:** YARB-1J-006; PAIN-1J-006; KEAT-1J-005; HEIL-1J-003; WITH-1J-002.
 
 ## Causal / pastoral spine
 
@@ -93,4 +93,4 @@ Primary independent technical voices used here:
 
 O'Donnell is retained as homiletical synthesis and is not counted as independent technical corroboration.
 
-Witherington is indexed but remains non-governing until the relevant local section is retrieved adequately.
+Witherington's local section was subsequently recovered directly from the EPUB and is now used as qualifying evidence on backward overlap and as supporting evidence on the appearing/hope/purification sequence.
