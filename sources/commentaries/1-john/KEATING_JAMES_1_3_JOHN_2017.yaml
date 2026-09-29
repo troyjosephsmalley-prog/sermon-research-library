@@ -1,0 +1,62 @@
+source_id: KEATING_JAMES_1_3_JOHN_2017
+
+bibliography:
+  author: Daniel Keating
+  title: "First, Second, and Third John (in James, First, Second, and Third John)"
+  editor: null
+  series: Catholic Commentary on Sacred Scripture
+  publisher: Baker Academic / Baker Publishing Group
+  year: 2017
+  edition: null
+  isbn_doi_url: "9781493406593"
+
+source_class: TECHNICAL_COMMENTARY
+
+library:
+  provider: GOOGLE_DRIVE
+  path_or_locator: "https://drive.google.com/file/d/15sqBFAZPZcfrRs0f6ClUKanSsxgDUB-E/view"
+  file_name: "James, 1-3 John (Catholic Commentary on Sacred Scripture) -- Anderson, Kelly; Keating, Daniel; Williamson, Peter; Healy, -- Baker Publishing Group, -- isbn13 9780801049224 -- aa117bb4361b9baddff0df28a59e73ac -- Anna’s Archive.epub"
+  edition_note: null
+  checksum: null
+
+competence:
+  - literary structure
+  - Greek lexical interpretation
+  - theological interpretation
+  - pastoral synthesis
+
+coverage:
+  biblical_books: [1 John, 2 John, 3 John]
+  passages: ["1 John 1:1-5:21"]
+  topics: [righteousness, children of God, purity, assurance, abiding]
+
+notes:
+  independence_group: KEATING_2017
+  dependencies: []
+  general_note: "Relevant 1 John commentary is authored by Daniel Keating."
+
+claims:
+  - claim_id: KEAT-1J-001
+    passage: "1 John 2:28-3:10"
+    issue: pericope_boundary_and_abiding
+    claim_type: literary_structure
+    summary: "Keating begins a new major movement at 2:28 and treats 2:28-3:10 as 'The Children of God', internally dividing it into 2:28-3:2, 3:3-6, and 3:7-10."
+    location: "pp. 175-189, especially 177ff."
+    quotation: null
+    contribution: QUALIFIES
+    confidence: HIGH
+    contested: true
+    independence_group: KEATING_2017
+    alternatives: ["2:28-3:3 sermon segmentation", "2:28-3:6"]
+  - claim_id: KEAT-1J-002
+    passage: "1 John 2:28-29"
+    issue: continuity_with_previous_sermon
+    claim_type: discourse_relation
+    summary: "Keating explicitly describes 2:28-29 as a hinge with good reasons for attachment both backward and forward, but places it with the following section because it introduces righteousness and new birth themes developed there."
+    location: "pp. 177-179"
+    quotation: null
+    contribution: SUPPORTS
+    confidence: HIGH
+    contested: false
+    independence_group: KEATING_2017
+    alternatives: []
