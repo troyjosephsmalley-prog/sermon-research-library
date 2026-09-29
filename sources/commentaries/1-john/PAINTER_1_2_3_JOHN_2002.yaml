@@ -61,7 +61,7 @@ claims:
     contested: false
     independence_group: PAINTER_2002
     alternatives: []
-- claim_id: PAIN-1J-003
+  - claim_id: PAIN-1J-003
     passage: "1 John 2:29"
     issue: referents_in_2_29
     claim_type: syntax_discourse
@@ -73,7 +73,7 @@ claims:
     contested: true
     independence_group: PAINTER_2002
     alternatives: ["Christ as first referent with God/Father as begetter in the second clause"]
-- claim_id: PAIN-1J-004
+  - claim_id: PAIN-1J-004
     passage: "1 John 3:1"
     issue: discourse_force_3_1
     claim_type: syntax_discourse
